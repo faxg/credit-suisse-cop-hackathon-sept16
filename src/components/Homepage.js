@@ -3,7 +3,7 @@ import { HomepageBanner, HomepageCallout } from "gatsby-theme-carbon";
 import HomepageTemplate from "gatsby-theme-carbon/src/templates/Homepage";
 //import { calloutLink } from "./Homepage.module.scss";
 
-import HL from "./banner.png";
+import HL from "./banner.jpg";
 
 const FirstLeftText = () => <p>Welcome Hackers</p>;
 

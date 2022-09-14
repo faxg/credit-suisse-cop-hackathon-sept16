@@ -3,28 +3,12 @@ import ResourceLinks from "gatsby-theme-carbon/src/components/LeftNav/ResourceLi
 
 const links = [
   {
-    title: "Hack Zurich 2022 Schedule",
-    href: "https://www.hackzurich.com/schedule",
-  },
-  {
-    title: "Swiss Re - Nat Cat",
-    href: "https://www.swissre.com/campaigns/natcat-2020.html",
-  },
-  {
-    title: "Swiss Re - FLOAT",
-    href: "https://corporatesolutions.swissre.com/innovative-risk-solutions/weather-solutions/float.html",
-  },
-  {
-    title: "Swiss Re - Risk Engineering Solutions",
-    href: "https://corporatesolutions.swissre.com/insurance-solutions/services/risk-engineering-services.html",
-  },
-  {
-    title: "Microsoft  - Mixed Reality",
-    href: "https://docs.microsoft.com/en-us/windows/mixed-reality/discover/mixed-reality?ocid=AID3054426",
+    title: "Credit Suisse",
+    href: "https://www.credit-suisse.com",
   },
   {
     title: "Microsoft.Source Newsletter",
-    href: "https://aka.ms/hackzurich2022-newsletter",
+    href: "https://azure.microsoft.com/en-us/resources/join-the-azure-developer-community/?ocid=3054457",
   },
 ];
 

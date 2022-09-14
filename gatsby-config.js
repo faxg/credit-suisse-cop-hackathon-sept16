@@ -1,20 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title:
-      "HackZurich 2022 - Swiss Re + Microsoft Challenge on Extended Reality",
-    description:
-      "Join the Mixed Reality Challenge from Swiss Re and Microsoft, at HackZurich 2022",
-    keywords:
-      "hackzurich,swissre,microsoft,challenge,mixed reality,extended reality,augmented reality, virtual reality, hololens",
+    title: "Credit Suisse Hackathon Cloud CoP India - Sept 2022",
+    description: "Join the Credit Suisse Hackathon Cloud CoP India - Sept 2022",
+    keywords: "microsoft,challenge,azure, cloud, credit suisse",
   },
-  pathPrefix: `/hackzurich2022-swissre-challenge`,
+  pathPrefix: `/credit-suisse-cop-hackathon-sept16`,
   plugins: [
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        name: "HackZurich 2022 Swiss Re + Microsoft Challenge on Extended Reality",
+        name: "Credit Suisse Hackathon Cloud CoP India - Sept 2022",
         icon: "./static/images/favicon.svg",
-        short_name: "Swiss Re + MSFT Challenge",
+        short_name: "CS Cloud CoP India Hackathon",
         start_url: "/",
         background_color: "#ffffff",
         theme_color: "#627d77",
@@ -28,12 +25,12 @@ module.exports = {
         isSwitcherEnabled: false,
         titleType: "page",
         theme: {
-          homepage: "dark",
-          interior: "dark",
+          homepage: "white",
+          interior: "white",
         },
 
         repository: {
-          baseUrl: "https://github.com/faxg/hackzurich2022-swissre-challenge",
+          baseUrl: "https://github.com/faxg/credit-suisse-cop-hackathon-sept16",
           branch: "master",
         },
       },
