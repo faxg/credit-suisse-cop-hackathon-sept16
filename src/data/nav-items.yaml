@@ -1,0 +1,82 @@
+- title: Home
+  pages:
+    - path: /
+- title: Cloud CoP Hackathon 2022
+  pages:
+    - title: The Challenges
+      path: /challenge
+    - title: Get an Azure Pass
+      path: /azure-pass
+    # - title: Schedule
+    #   path: /schedule
+    # - title: Meet the team
+    #   path: /team
+- title: Building on Azure
+  pages:
+    - title: Learning Paths
+      path: /learningpaths
+    - title: Azure Fundamentals
+      path: /fundamentals
+    - title: Azure Data & AI
+      path: /data-ai
+    - title: Azure PaaS Service
+      path: /paas
+    - title: Videos and totorials
+      path: /videos-tutorials
+
+    # - title: Inspiration
+    #   path: /inspiration
+    # - title: Azure Services
+    #   path: /azure-services
+# - title: Components
+# pages:
+#   - title: Accordion
+#     path: /components/Accordion
+#   - title: AnchorLinks
+#     path: /components/AnchorLinks
+#   - title: ArtDirection
+#     path: /components/ArtDirection
+#   - title: ArticleCard
+#     path: /components/ArticleCard
+#   - title: Aside
+#     path: /components/Aside
+#   - title: Caption
+#     path: /components/Caption
+#   - title: Code blocks
+#     path: /components/code-blocks
+#   - title: DoDontExample
+#     path: /components/DoDontExample
+#   - title: DoDontRow
+#     path: /components/DoDontRow
+#   - title: FeatureCard
+#     path: /components/FeatureCard
+#   - title: FeedbackDialog
+#     path: /components/FeedbackDialog
+#   - title: GifPlayer
+#     path: /components/GifPlayer
+#   - title: Grid
+#     path: /components/Grid
+#   - title: ImageCard
+#     path: /components/ImageCard
+#   - title: ImageGallery
+#     path: /components/ImageGallery
+#   - title: InlineNotification
+#     path: /components/InlineNotification
+#   - title: Markdown
+#     path: /components/markdown
+#   - title: MediumPosts
+#     path: /components/MediumPosts
+#   - title: MiniCard
+#     path: /components/MiniCard
+#   - title: PageDescription
+#     path: /components/PageDescription
+#   - title: ResourceCard
+#     path: /components/ResourceCard
+#   - title: SquareCard
+#     path: /components/SquareCard
+#   - title: Tabs
+#     path: /components/Tabs
+#   - title: Title
+#     path: /components/Title
+#   - title: Video
+#     path: /components/Video
